@@ -42,3 +42,6 @@ image_composite(tidyrgeoda_logo,pipe,
 ```
 
 ![](./tidyrgeoda_logo.png)
+
+**Thanks to `Cao Yue` for her help on `GeoDa` background image
+extraction.**
